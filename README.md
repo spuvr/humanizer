@@ -69,39 +69,39 @@ The full catalog is in [SKILL.md](SKILL.md), along with everything underneath ab
 
 Three before-and-after pairs, each pair written about the same topic with the same factual references. The only thing that changed was whether the humanizer skill was loaded.
 
-**Why we yawn, without the humanizer skill:**
+**The history of chocolate, without the humanizer skill:**
 
-> Yawning is one of the most common human behaviors, and yet scientists still cannot fully explain why we do it. The old idea that yawning boosts oxygen intake has largely been disproved by research. The leading current theory is that yawning helps regulate the temperature of the brain by drawing in cooler air and increasing blood flow to the head. Yawning is also contagious in humans and in some animals such as dogs and chimpanzees, and that contagion appears to be linked to empathy. Most of us start yawning before we are even born, since ultrasounds have captured fetuses yawning in the womb, and unusually frequent yawning can sometimes point to sleep disorders, heart problems, or certain neurological conditions.
+> Chocolate has a rich and fascinating history that spans thousands of years. The cacao tree, Theobroma cacao, is native to Central and South America, where the Olmecs were likely the first to process cacao beans around 1500 BC. The Mayans and Aztecs later embraced cacao, drinking it as a bitter, frothy beverage and even using the beans as a form of currency. Chocolate made its way to Europe in the 16th century through Spanish conquistadors, where sugar was added to counter its natural bitterness and transform it into a sweet treat. The 19th century brought further innovation with the introduction of solid chocolate bars, and in 1875, Daniel Peter invented milk chocolate in Switzerland, paving the way for the modern confection we enjoy today.
 
-**Why we yawn, with the humanizer skill:**
+**The history of chocolate, with the humanizer skill:**
 
-> Yawning is one of those things everyone does and nobody can quite explain. The oxygen theory, the one your gym teacher told you, has mostly fallen apart under testing. The current best guess is temperature regulation, that pulling cool air in and bumping blood flow helps cool the brain a little. The contagious part is stranger. It catches in humans, in dogs, in chimps, and the people who catch it most readily tend to score higher on empathy measures. Fetuses yawn in the womb, caught on ultrasound months before they breathe air. And if you find yourself yawning constantly for no reason, that can point at a sleep disorder, a heart issue, something neurological worth asking about.
+> For most of its life, chocolate wasn't sweet. The Olmecs were grinding cacao around 1500 BC, and by the time the Mayans and Aztecs had their hands on it, it was a thick bitter drink they'd whip into foam and pass around at ceremonies. The beans doubled as currency. Spanish conquistadors carried it back across the Atlantic in the 1500s, and someone there had the obvious idea of adding sugar. The bar you eat now is even younger than that. Daniel Peter mixed milk into it in Switzerland in 1875, and that's basically the version that won.
 
-Same facts. The first reports them in textbook order. The second hooks you with "everyone does and nobody can quite explain," then plants you in a memory ("the one your gym teacher told you") and overturns it. You actually read the whole thing.
+Same facts. The first opens with "Chocolate has a rich and fascinating history" and puts you in textbook mode. The second opens with "For most of its life, chocolate wasn't sweet" and instantly flips an assumption you didn't know you had. You keep reading.
 
-Another one, on the fall of the Berlin Wall.
-
-**Without the humanizer skill:**
-
-> The Berlin Wall stood from 1961 to 1989, dividing East and West Berlin after East Germany built it to stop its citizens from fleeing westward. On the evening of November 9, 1989, an East German official named Günter Schabowski mistakenly told a press conference that travel restrictions would be lifted immediately. Hearing the news, East Berliners flocked to the border crossings, and the overwhelmed guards eventually gave up and opened the gates. Crowds from both sides climbed onto the wall together, celebrating and chipping off pieces as souvenirs. The collapse of the wall set off a rapid unravelling of communist governments across Eastern Europe and led to the reunification of Germany on October 3, 1990.
-
-**With the humanizer skill:**
-
-> The wall went up in 1961 to keep East Germans from walking west, and it came down on the evening of November 9, 1989, because a man read a note wrong. Günter Schabowski, an East German official, was handed new travel rules at a press conference, didn't quite understand them, and when a reporter asked when they took effect he said "immediately." East Berliners heard him on the news and walked to the checkpoints. The guards had no orders, no script, and eventually no choice; they opened the gates. People climbed on top of the concrete with hammers and chisels, working off pieces while strangers from both sides drank together in the cold. Within a year the other communist governments in the region had folded, and Germany was one country again on October 3, 1990.
-
-The baseline gives you "mistakenly told a press conference" and "chipping off pieces as souvenirs." The humanizer version gives you "because a man read a note wrong" and "strangers from both sides drank together in the cold." Same facts, completely different relationship to the reader.
-
-One more, this time something technical. How vinyl records work.
+Another one, on how GPS works.
 
 **Without the humanizer skill:**
 
-> A vinyl record stores sound as a single continuous spiral groove cut into the surface of the disc, with tiny side-to-side and up-and-down wiggles that mirror the shape of the original sound waves. When the record spins, a stylus rests in the groove and vibrates with those wiggles, and a cartridge converts the motion into an electrical signal using either a coil-and-magnet system or a piezoelectric element. That signal is then amplified and sent to the speakers. Albums typically play at 33⅓ RPM, singles at 45 RPM, and older shellac records at 78 RPM. Because the groove represents the sound wave continuously rather than as a series of discrete samples, vinyl is considered an analog format, in contrast to CDs and other digital audio.
+> GPS, or the Global Positioning System, relies on a network of more than 30 satellites orbiting Earth at an altitude of around 20,200 kilometers. Each satellite continuously broadcasts its position and the precise time, and a GPS receiver on the ground listens to signals from at least four satellites simultaneously. By measuring how long each signal takes to arrive, the receiver calculates its distance to each satellite and uses a process called trilateration to pinpoint its location in three-dimensional space. Originally developed by the US military in the 1970s, GPS was opened to civilian use in the 1980s and made fully accurate for civilians in 2000, becoming an essential part of modern navigation.
 
 **With the humanizer skill:**
 
-> A record is a single spiral groove cut into the disc, and the wiggles in that groove, side to side and up and down, are the sound wave itself, drawn in plastic. The stylus drops in and shakes as the record turns. A cartridge picks up that shaking with a magnet and a coil, or with a piezo crystal, turns it into a tiny electrical signal, and the amp takes it from there. 33 and a third for an album, 45 for a single, 78 for the old shellac stuff your grandparents had. The whole thing is analog, which means the wave is right there as one continuous shape, not the stairstep of samples a CD uses.
+> There are about thirty satellites circling the planet at 20,200 km, each one shouting its position and the time, over and over. Your phone listens. It catches signals from at least four of them, works out how long each one took to arrive, and from those four distances it figures out where you're standing in three dimensions. The military built the system in the 1970s and opened it up to civilians a decade later. The signal was still deliberately fuzzy for outsiders until 2000; before then your handheld GPS was off by about a hundred meters because the Pentagon didn't want anyone else's missiles to be accurate.
 
-The baseline spends three full sentences on the physical groove and never lets you see it. The humanizer version says "the sound wave itself, drawn in plastic" and the whole mental model lands in one line.
+The baseline gives you the facts in textbook order and closes on "becoming an essential part of modern navigation." The humanizer version says "Your phone listens" in three words, and closes with the real reason civilian GPS used to be inaccurate, which is the kind of detail the baseline didn't reach for even though it had access to the same facts.
+
+One more, on the Wright Brothers' first flight.
+
+**Without the humanizer skill:**
+
+> The Wright Brothers' first powered flight took place on December 17, 1903, at Kitty Hawk, North Carolina, marking a pivotal moment in human history. Wilbur and Orville Wright, bicycle shop owners from Dayton, Ohio, designed and built the Wright Flyer themselves, a biplane equipped with a 40 horsepower engine of their own design. The first flight, with Orville at the controls, lasted just 12 seconds and covered 120 feet, but they made four flights that day, with the longest reaching 59 seconds and 852 feet, piloted by Wilbur. Despite the magnitude of their achievement, news did not spread widely at first, and many people remained skeptical until the brothers gave public demonstrations in 1908.
+
+**With the humanizer skill:**
+
+> Twelve seconds and 120 feet, into the wind off the dunes at Kitty Hawk. That was the first one, December 17, 1903, with Orville at the controls and his brother running alongside. They were bicycle mechanics from Dayton who'd built their own engine because nobody made one light enough. They flew four times that day. Wilbur took the longest, 59 seconds and 852 feet, before the wind picked the Flyer up and broke it on the sand. The story barely traveled at first; most papers didn't believe them until they started flying in public five years later.
+
+The baseline writes "marking a pivotal moment in human history" before it has even shown you what happened. The humanizer version opens with "Twelve seconds and 120 feet, into the wind off the dunes at Kitty Hawk" and you are already standing there. The pivotal-moment line was never necessary, because the facts themselves, given specifically, do the work.
 
 
 ## The benchmark, because I didn't want to just claim it works
