@@ -39,6 +39,8 @@ Before you can fix AI-ness, you have to know what you're aiming for.
 
 **Specificity.** "3am" instead of "late at night." "The four people who actually open this every day" instead of "many users." "Since 2019" instead of "for a long time." Specifics cost something to write; that's what earns them trust.
 
+**Plain English.** Use the everyday word, not the fancy one. "Use" instead of "utilize." "Help" instead of "facilitate." "Show" instead of "demonstrate." "Try" instead of "endeavor." Aim for the kind of English everyone understands, not the kind of English that wants to impress a committee. Fancier vocabulary feels smart but it slows the reader down, and it signals AI almost instantly. Plain words are not lower quality, they are higher trust. Write like the smartest person you know talking to a friend, not like an academic paper.
+
 **Mess.** A half-thought. A tangent that earns its place. A sentence that ends somewhere you didn't expect. Don't sand off every edge that survived your first draft.
 
 **Stake.** Something the writer cares about. They want you to see what they see. AI reports, balances, moves on. Real writing has a temperature.

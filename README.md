@@ -43,26 +43,24 @@ And here is the text to rewrite:
 You can drop in pretty much anything: an article draft, a LinkedIn post that came out of ChatGPT, a paragraph in a doc that feels off, an essay, a cover letter, etc... The skill takes over from there.
 
 
-## What the skill actually catches
+## What the skill catches, at a glance
 
-A small slice of the patterns the skill recognizes, why each one is a tell, and what a human does instead.
+A short list of the most common AI patterns the skill recognizes, with what a human writes instead.
 
-| What AI writes | Why it sounds AI | What a human does |
-|---|---|---|
-| "It's worth noting that..." | Padding to sound thorough | Cuts it. The sentence already works. |
-| "fast, flexible, and reliable" | Defaults to lists of three | Uses 2, 4, or 1. Breaks the cadence. |
-| "It's not just X, it's Y" | Frames everything as a profound reframe | Just says Y |
-| "Experts say..." | Vague authority, no real source | Names the source or drops the claim |
-| Em-dashes everywhere ("—") | The model's versatile fallback | Uses commas, periods, parentheses, or a plain hyphen ("-") |
-| "stunning, vibrant, breathtaking" | Brochure copy leaking through | Describes the thing instead of selling it |
-| "Great question!" | Chatbot pleasantry leaking in | Deletes it. The piece starts at sentence one. |
-| "The future looks bright" | Forced positive closer | Ends on something concrete |
-| "On one hand, on the other hand" | Performing balance, avoiding stake | Has an opinion, or admits real uncertainty |
-| "Despite challenges, X thrives" | Wikipedia template | Drops the section if there are no real challenges |
-| "In a world where..." | Reaching for grand framing | Starts with the thing itself |
-| "reflecting the community's deep connection..." | Tacked-on "-ing" tail for fake depth | Ends the sentence at the real fact |
+| AI writes this | A human writes this |
+|---|---|
+| "It's worth noting that..." | Cuts it. The sentence already works. |
+| "fast, flexible, and reliable" | Lists two or four, not always three. |
+| "It's not just X, it's Y" | Just says Y. |
+| "Experts say..." | Names the source, or drops the claim. |
+| Em-dashes everywhere ("—") | Uses commas, periods, or a plain "-". |
+| "stunning, vibrant, breathtaking" | Says what the thing actually is. |
+| "Great question!" | Deletes it. The piece starts at sentence one. |
+| "The future looks bright" | Ends on something specific instead. |
+| "On one hand, on the other hand" | Has an opinion, or admits real uncertainty. |
+| "In a world where..." | Starts with the thing itself. |
 
-The full catalog is in [SKILL.md](SKILL.md), along with everything underneath about rhythm, flow, voice, specificity, and what human writing actually feels like.
+The full catalog (with more patterns, more examples, and the principles underneath them) lives in [SKILL.md](SKILL.md).
 
 
 ## Before and after, so you can feel the gap
