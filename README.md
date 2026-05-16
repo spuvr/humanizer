@@ -67,7 +67,7 @@ The full catalog is in [SKILL.md](SKILL.md), along with everything underneath ab
 
 ## Before and after, so you can feel the gap
 
-Three paragraphs pulled straight from the benchmark, each written about the same topic with the same factual references. The only thing that changed was whether the humanizer skill was loaded.
+Three before-and-after pairs, each pair written about the same topic with the same factual references. The only thing that changed was whether the humanizer skill was loaded.
 
 **Why we yawn, without the humanizer skill:**
 
@@ -106,15 +106,9 @@ The baseline spends three full sentences on the physical groove and never lets y
 
 ## The benchmark, because I didn't want to just claim it works
 
-I didn't want to just say this skill is good, I wanted to actually test it. So I ran two separate benchmarks with three agents each. Two agents wrote without the humanizer skill loaded (baselines), and a third agent wrote with the skill loaded. All three agents got identical topics and identical factual references. The only thing that changed was the skill.
+I didn't want to just say this skill is good, I wanted to actually test it. So I spawned two Claude agents in parallel in separate terminal windows. One had the humanizer skill loaded, the other didn't. Both got the same four subjects with the same factual references. The only thing that changed was the skill.
 
-Round 1 covered the invention of paper, how airplane wings generate lift, why we yawn, and the fall of the Berlin Wall. Round 2 covered the history of pizza, how vinyl records work, why flamingos are pink, and the Great Pyramid of Giza.
-
-In both rounds, the two baseline agents converged hard. They produced almost the same paragraph for each topic, using the same hedged framing and the same neutral closers. The convergence itself is the tell. It is what AI prose looks like when you sample it twice.
-
-The humanizer agent broke pattern on every single topic. It opened in concrete moments ("Pizza didn't start as anything special," "The wall went up in 1961 to keep East Germans from walking west"). It reached for specific images the baselines never grabbed for ("the sound wave itself, drawn in plastic," "the only one you can still walk up to"). It varied rhythm. It had a voice.
-
-Full output is in [BENCHMARK.md](BENCHMARK.md) for round one and [BENCHMARK-2.md](BENCHMARK-2.md) for round two. 24 paragraphs side by side. Judge for yourself.
+The agents wrote their output directly to their own files. I didn't paste anything, edit anything, or pick the good parts. Their raw output is in the [BENCHMARK](BENCHMARK) folder, baseline.md next to humanizer.md, side by side. Compare them and judge for yourself.
 
 
 ## What reading AI feels like versus what reading human writing feels like
@@ -138,11 +132,6 @@ It is not finished. AI writing is a moving target, and new tells show up as the 
 The skill itself follows the philosophy it teaches. No banned-word list. No find-and-replace templates. No checklist energy. Examples are used as direction, not as a cage. If reading SKILL.md feels like it is hand-holding you, that is a bug, and the file needs another pass.
 
 
-## Sponsor
-
-If this skill saves you time or just makes reading AI text a little less painful, you can sponsor me on GitHub here: [github.com/sponsors/spuvr](https://github.com/sponsors/spuvr). Completely optional, no pressure, but always appreciated.
-
-
 ## License
 
 MIT. Use it however you want, modify it, fork it, ship it inside your own projects, etc... Credit is appreciated but not required.
@@ -151,3 +140,8 @@ MIT. Use it however you want, modify it, fork it, ship it inside your own projec
 ## Tags
 
 humanize ai text, ai writing humanizer, claude code skill, anthropic skill, remove ai tells, ai writing patterns, make ai sound human, chatgpt humanizer, llm writing style, prose editing, ai content editor, ai text rewriter, humanize chatgpt, natural writing, writing assistant
+
+
+---
+
+Always appreciated if you wanna sponsor here: [github.com/sponsors/spuvr](https://github.com/sponsors/spuvr)
