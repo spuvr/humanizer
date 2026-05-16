@@ -1,6 +1,6 @@
 # Benchmark
 
-I spawned three Claude agents in parallel, each in its own window. All three are Opus 4.7. One had the **humanizer skill** loaded (it read `SKILL.md` before writing). One had **another humanizer skill** loaded — there are a few of these floating around, you can pick whichever you want, but the point of including a second one was to see that the difference between "no skill" and "any humanizer skill" is itself worth seeing. The third had no skill loaded at all, just raw model.
+I spawned three Claude agents in parallel, each in its own window. All three are Opus 4.7. One had the humanizer skill loaded (it read `SKILL.md` before writing). One had another humanizer skill loaded; there are a few of these around, and including one of them just adds a third reference point. The third had no skill loaded at all, just raw model.
 
 All three got the exact same four subjects, the exact same factual references, and the exact same instructions about length and format.
 
@@ -17,7 +17,7 @@ Each agent wrote its output directly into its own file in this folder. I didn't 
 
 ## Quick contrast, opener by opener
 
-A scan of the first sentence each agent wrote for each subject. Same facts available to all three, three very different starting moves.
+The first sentence each agent wrote for each subject. Same facts available to all three.
 
 | Subject | Baseline (no skill) | Humanizer (this skill) | Another humanizer skill |
 |---|---|---|---|
@@ -39,12 +39,12 @@ A scan of the first sentence each agent wrote for each subject. Same facts avail
 
 ## The references all three agents received
 
-Each agent had access to nothing more than what is listed below for each subject. The humanizer agents didn't have extra facts, they just made different choices with the same facts.
+Each agent had access to nothing more than what is listed below for each subject. The two skill-loaded agents didn't have extra facts, they just made different choices with the same facts.
 
 ### Subject 1: why we dream
 
 - Dreams happen most vividly during REM sleep (rapid eye movement), which kicks in about 90 minutes after falling asleep and recurs several times through the night
-- Sigmund Freud's "wish fulfillment" theory dominated the early 20th century — the idea that dreams are disguised desires
+- Sigmund Freud's "wish fulfillment" theory dominated the early 20th century, the idea that dreams are disguised desires
 - Modern neuroscience leans toward memory consolidation, emotional processing, and threat simulation as the functions of dreaming
 - Some researchers see dreams as the brain's way of stitching a narrative onto random neural activity during sleep
 - Nightmares are common across cultures; lucid dreaming is when you become aware you're dreaming and can sometimes steer it
@@ -56,7 +56,7 @@ Each agent had access to nothing more than what is listed below for each subject
 - The Western Roman Empire is generally said to have fallen in 476 AD, when the Germanic chieftain Odoacer deposed Romulus Augustulus, the last Western emperor
 - The empire had split in two under Diocletian around 285 AD; the Eastern half, later called the Byzantine Empire, survived until 1453
 - Rome itself was sacked in 410 AD by Alaric the Visigoth and again in 455 AD by the Vandals
-- Causes were many and tangled — economic decline, political instability, plague, overextension, pressure from migrating tribes (Goths, Vandals, Huns) pushed west by other migrations
+- Causes were many and tangled: economic decline, political instability, plague, overextension, pressure from migrating tribes (Goths, Vandals, Huns) pushed west by other migrations
 - Edward Gibbon's 1776 work "The History of the Decline and Fall of the Roman Empire" shaped how people have framed the topic for over two centuries
 - The "fall" was less a single event than a long unraveling stretched over centuries
 
@@ -75,15 +75,15 @@ Each agent had access to nothing more than what is listed below for each subject
 ### Subject 4: how the Mona Lisa became the world's most famous painting
 
 - Painted by Leonardo da Vinci between roughly 1503 and 1519
-- Before 1911, it was respected but not unusually famous — one of many great Renaissance works hanging in the Louvre
+- Before 1911, it was respected but not unusually famous, one of many great Renaissance works hanging in the Louvre
 - On August 21, 1911, it was stolen from the Louvre by Vincenzo Peruggia, an Italian handyman who had helped install the painting's protective glass
 - The theft made international headlines for over two years; photographs of the empty wall ran everywhere and people queued just to look at the blank space
 - The painting was recovered in 1913 when Peruggia tried to sell it to a gallery in Florence
-- The theft, more than the brushwork, is what catapulted the Mona Lisa into global icon status — fame born from absence
+- The theft, more than the brushwork, is what catapulted the Mona Lisa into global icon status, fame born from absence
 
 
 ## Raw files
 
-- [baseline.md](baseline.md) — exactly what the no-skill agent wrote, no edits
-- [humanizer.md](humanizer.md) — exactly what the agent with this skill wrote, no edits
-- [other-humanizer.md](other-humanizer.md) — exactly what the agent with another humanizer skill wrote, no edits
+- [baseline.md](baseline.md), exactly what the no-skill agent wrote, no edits
+- [humanizer.md](humanizer.md), exactly what the agent with this skill wrote, no edits
+- [other-humanizer.md](other-humanizer.md), exactly what the agent with another humanizer skill wrote, no edits
